@@ -1,7 +1,7 @@
 ### Hello 👋🏻 👨🏻‍💻
  I'm Tyler! I'm a Full Stack Software Engineer with a passion for system design and problem solving. 
  
- Skilled In:
+ Skilled In: \n
  • HTML5
  • CSS3
  • JavaScript
