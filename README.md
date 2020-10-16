@@ -1,5 +1,15 @@
 ### Hello 👋🏻 👨🏻‍💻
- My name is Tyler 
+ I'm Tyler! I'm a Full Stack Software Engineer with a passion for system design and problem solving. 
+ 
+ Skilled In:
+ • HTML5
+ • CSS3
+ • JavaScript
+ • TypeScript
+ • React.js
+ • Node.js
+ • Python
+ • SQL
 
 <!--
 **tylerbroadway/tylerbroadway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
