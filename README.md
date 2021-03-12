@@ -3,17 +3,17 @@
  ### I'm a Full Stack Software Engineer 👨‍💻 with a passion for bringing ideas to life, and solving hard problems. 
  #### Interested in blockchain, smart contracts, and all things Web3. 🌐
  
- **Check out my [portfolio](https://tylerbroadway.dev) to see my latest projects.**
+ Check out my [portfolio](https://tylerbroadway.dev) to see my latest projects.
  
- **Skilled In**: <br />
- • **HTML5** <br />
- • **CSS3** <br />
- • **JavaScript** <br />
- • **TypeScript** <br />
- • **React** <br />
- • **Node**.js <br />
- • **Python** <br />
- • **SQL**
+ Skilled In: <br />
+ • HTML5 <br />
+ • CSS3 <br />
+ • JavaScript <br />
+ • TypeScript <br />
+ • React <br />
+ • Node.js <br />
+ • Python <br />
+ • SQL
 
 <!--
 **tylerbroadway/tylerbroadway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
