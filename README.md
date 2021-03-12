@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Tyler Broadway
  
- #### I'm a Full Stack Software Engineer 👨‍💻 with a passion for bringing ideas to life, and solving hard problems. 
+ ### I'm a Full Stack Software Engineer 👨‍💻 with a passion for bringing ideas to life, and solving hard problems. 
  #### Interested in blockchain, smart contracts, and all things Web3. 🌐
  
  **Check out my [portfolio](https://tylerbroadway.dev) to see my latest projects.**
