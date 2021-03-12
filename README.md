@@ -6,7 +6,7 @@
  • CSS3 <br />
  • JavaScript <br />
  • TypeScript <br />
- • React.js <br />
+ • React <br />
  • Node.js <br />
  • Python <br />
  • SQL
