@@ -6,8 +6,6 @@
  Check out my [portfolio](https://tylerbroadway.dev) to see my latest projects.
  
  Skilled In: <br />
- • HTML5 <br />
- • CSS3 <br />
  • JavaScript <br />
  • TypeScript <br />
  • React <br />
