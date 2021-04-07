@@ -1,4 +1,4 @@
-## Hey 👋 I'm Tyler vv
+## Hey 👋 I'm Tyler
  
  ### I'm a Full Stack Software Engineer 👨‍💻 with a passion for bringing ideas to life, and solving hard problems. 
  #### Interested in blockchain, smart contracts, and all things Web3. 🌐
