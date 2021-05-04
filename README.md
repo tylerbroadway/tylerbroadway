@@ -15,7 +15,7 @@
  • Express.js <br />
  • Python <br />
  • Django <br />
- • GraphQL
+ • GraphQL <br />
  • SQL
 
 <!--
