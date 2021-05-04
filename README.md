@@ -9,8 +9,13 @@
  • JavaScript <br />
  • TypeScript <br />
  • React <br />
+ • Tailwindcss <br />
+ • Next.js
  • Node.js <br />
+ • Express.js <br />
  • Python <br />
+ • Django <br />
+ • GraphQL
  • SQL
 
 <!--
