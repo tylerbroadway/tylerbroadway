@@ -10,7 +10,7 @@
  • TypeScript <br />
  • React <br />
  • Tailwindcss <br />
- • Next.js
+ • Next.js <br />
  • Node.js <br />
  • Express.js <br />
  • Python <br />
