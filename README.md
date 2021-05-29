@@ -16,7 +16,7 @@
  • Python <br />
  • Django <br />
  • GraphQL <br />
- • SQL
+ • PostgreSQL
 
 <!--
 **tylerbroadway/tylerbroadway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
