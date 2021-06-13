@@ -9,8 +9,9 @@
  • JavaScript <br />
  • TypeScript <br />
  • React <br />
- • Tailwindcss <br />
  • Next.js <br />
+ • Gatsby
+ • Tailwindcss <br />
  • Node.js <br />
  • Express.js <br />
  • Python <br />
