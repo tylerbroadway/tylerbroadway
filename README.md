@@ -1,23 +1,7 @@
  ## Hey 👋 I'm Tyler
  
- ### I'm a Full Stack Software Engineer 👨‍💻 with a passion for bringing ideas to life, and solving hard problems. 
+ ### Full-stack engineer @ BigCommerce.
  #### Interested in blockchain, smart contracts, and all things Web3. 🌐
- 
- Check out my [portfolio](https://tylerbroadway.dev) to see my latest projects.
- 
- Skilled In: <br />
- • JavaScript <br />
- • TypeScript <br />
- • React <br />
- • Next.js <br />
- • Gatsby
- • Tailwindcss <br />
- • Node.js <br />
- • Express.js <br />
- • Python <br />
- • Django <br />
- • GraphQL <br />
- • PostgreSQL
 
 <!--
 **tylerbroadway/tylerbroadway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
