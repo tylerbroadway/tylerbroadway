@@ -1,5 +1,4 @@
- ## Hey 👋 I'm Tyler
- 
+
  ### Full-stack engineer @ BigCommerce.
  #### Interested in blockchain, smart contracts, and all things Web3. 🌐
 
