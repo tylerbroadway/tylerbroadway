@@ -1,6 +1,5 @@
 
- ### Full-stack engineer @ BigCommerce.
- #### Interested in blockchain, smart contracts, and all things Web3. 🌐
+ working on something 🧙🏻
 
 <!--
 **tylerbroadway/tylerbroadway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
