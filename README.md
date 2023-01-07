@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I like building stuff
 
  ### Skilled In:
- <br />
+ <br /> <br />
  <a href="https://github.com/tylerbroadway">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerbroadway&layout=compact&theme=react" alt="Top languages" />
 </a>
