@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 I like building stuff
 
+<br />
+
  ### Skilled In:
  <br /> <br />
  <a href="https://github.com/tylerbroadway">
@@ -34,4 +36,6 @@ I like building stuff
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+ <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
