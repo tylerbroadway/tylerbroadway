@@ -22,8 +22,8 @@ I like building stuff
 
 <br />
 
- ### Skilled In:
- <br /> <br />
+ ## Technologies I've Used
+ I'm a full stack engineer, and while I'm very comfortable working on the frontend, I do have an affinity for the backend. <br /> <br />
  <a href="https://github.com/tylerbroadway">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerbroadway&layout=compact&theme=react" alt="Top languages" />
 </a>
@@ -39,3 +39,10 @@ I like building stuff
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+ 
+ <br />
+ 
+ ## Currently Learning
+ <br /> <br />
+  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+
