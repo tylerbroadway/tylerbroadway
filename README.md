@@ -26,5 +26,4 @@ I like building stuff
  <br />
  
  ## Currently Learning
- I'm continuously learning new technologies that catch my interest. <br /> <br />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
