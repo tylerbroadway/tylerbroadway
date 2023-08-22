@@ -5,7 +5,7 @@ I like building stuff
 <br />
 
  ## Languages & Tools I've Used <br />
- I'm a full stack engineer, and while I'm very comfortable working with frontend technologies, I love working on the backend. <br /> <br />
+ I'm a full stack engineer, and while I'm very comfortable working with frontend technologies, I have an affinity for the backend. <br /> <br />
  <a href="https://github.com/tylerbroadway">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerbroadway&layout=compact&theme=react" alt="Top languages" />
 </a>
