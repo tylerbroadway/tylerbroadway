@@ -1,6 +1,6 @@
 # Hey 👋 I'm Tyler
 
-I like to build stuff
+I like building stuff
 
 <br />
 
